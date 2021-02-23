@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{82EEFF3F-B3EF-458D-B870-BE51885EC5E7}"
 	ProjectSection(SolutionItems) = preProject
 		azure-pipelines.yml = azure-pipelines.yml
+		.config\dotnet-tools.json = .config\dotnet-tools.json
 		gulpfile.js = gulpfile.js
 		LICENSE = LICENSE
 		LICENSE-CODE = LICENSE-CODE
